@@ -1,3 +1,3 @@
 ## DEMO
- this is my demo file
+ this is my demo.
 addign another line to the file
